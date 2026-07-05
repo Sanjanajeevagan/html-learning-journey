@@ -28,7 +28,7 @@ Build a strong HTML foundation before learning CSS, JavaScript, and Full-Stack D
 - [x] Tables
 - [x] Forms
 - [x] Semantic HTML
-- [] Mini Project
+- [x] Mini Project
 
 ---
 
