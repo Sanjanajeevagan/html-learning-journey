@@ -32,4 +32,19 @@ Build a strong HTML foundation before learning CSS, JavaScript, and Full-Stack D
 
 ---
 
+## 📂 Mini Projects
+
+### 🛍️ Project 1 - ShopEase
+
+A shopping website built using only HTML.
+
+📁 Folder: `08-ShopEase`
+
+Concepts:
+- Semantic HTML
+- Navigation
+- Tables
+- Lists
+- Forms
+
 ⭐ I will update this repository as I continue learning HTML.
